@@ -29,6 +29,7 @@ share/python-wheels/
 .envvars.yaml
 *.egg
 MANIFEST
+*.sql
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
